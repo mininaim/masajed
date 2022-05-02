@@ -1,0 +1,9 @@
+<?php include('header.html') ?>
+<?php include('navigation.html') ?>
+<?php include('hero.html') ?>
+<?php include('key-features.html') ?>
+<?php include('more-features.html') ?>
+<?php include('featured.html') ?>
+<?php include('popular.html') ?>
+<?php include('glossary.html') ?>
+<?php include('footer.html') ?>
